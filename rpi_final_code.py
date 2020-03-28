@@ -6,8 +6,8 @@ import urllib2
 import Adafruit_DHT
 sleep = 4#in seconds
 
-# Enter Your API key here
-myAPI = '2Q0EW533M1TISQ0V' 
+#Api configuration
+myAPI = 'Enter Your API key here' #sample '2Q0EW533M1TISQ0V' 
 # URL where we will send the data, Don't change it
 baseURL = 'https://api.thingspeak.com/update?api_key=%s' % myAPI 
 
