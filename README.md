@@ -9,7 +9,7 @@ Pre-requisites: get your api from any site, mine was from THINGSPEAK.
 https://thingspeak.com/
 
 Hardware:
-1.Arduino nano as many as you like. For budget used only one.
+1.{Arduino nano*1, lcd display(16 pins)*1, HC-05(bluetooth)*1, mpu-6050(gyroscope)*1,lm35(temperature)*1,soil moisture*1,hc-sr04(ultrasonic)*1} as many as you like. For budget used only one set.
 2.Raspberry pi zero w(has necessary bluetooth and wifi).
 3.A dust-bin preferably plastic(easy to modify).
-4.A power source for arduino and raspberry pi. For convenience used battery bank as it has multiple usb ports can power bth simultaneously.
+4.A power source for arduino and raspberry pi. For convenience used battery bank as it has multiple usb ports can power both simultaneously.
